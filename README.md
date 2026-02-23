@@ -28,3 +28,12 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+## About
+
+[One paragraph: who you are and what this repository is for.]
+My name is naef and i am here do the task and explore git
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/Naefadwan-prework.git
+cd Naefadwan-prework

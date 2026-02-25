@@ -37,3 +37,17 @@ My name is naef and i am here do the task and explore git
 ```bash
 git clone https://github.com/LevelUp-Applied-AI/Naefadwan-prework.git
 cd Naefadwan-prework
+
+
+When to use each 
+Use a notebook when:
+
+You are exploring a dataset and the next step depends on what you just saw
+You are building a report where prose and charts must appear together
+You are demonstrating a concept to someone who is not running the code
+Use a script when:
+
+The code will run in a pipeline, a cron job, or a CI/CD workflow
+The code will be tested with pytest
+Other modules will import from it
+You need a clean git diff history
